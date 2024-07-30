@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    font-size: 23px;
+    margin-top: 0px;
+    width: 100%;
+}
+#start, #object_status, #status{
+    font-size: 18px;
+}
+canvas{
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px blue;
+    border: 4px white;
+    border-radius: 4px;
+}
